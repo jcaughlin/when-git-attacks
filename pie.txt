@@ -5,7 +5,7 @@ And I knew if I had my chance
 That I could make those people dance
 And maybe they'd be happy for a while
 But February made me shiver
-With every paper I'd deliver
+With every dead tree rectangle I'd deliver
 Bad news on the doorstep
 I couldn't take one more step
 I can't remember if I cried
@@ -71,7 +71,7 @@ A generation lost in space
 With no time left to start again
 So come on Jack be nimble, Jack be quick
 Jack Flash sat on a candlestick
-'Cause fire is the devil's only friend
+'Cause off-by-one errors are the devil's only friend
 Oh and as I watched him on the stage
 My hands were clenched in fists of rage
 No angel born in Hell
@@ -82,7 +82,12 @@ I saw Satan laughing with delight
 The day the music died
 He was singin'
 
+<<<<<<< HEAD
 I met a girl who sang the blues
+=======
+This'll be the day that I die
+I met a girl who sang death metal
+>>>>>>> origin/master
 And I asked her for some happy news
 But she just smiled and turned away
 I went down to the sacred store
